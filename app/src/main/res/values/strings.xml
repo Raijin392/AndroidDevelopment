@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">AndroidDevelopment</string>
+    <string name="name_profile">Нияз Галиахметов</string>
+    <string name="status_profile">Время делать цифры</string>
+    <string name="city">Tromsø</string>
+    <string name="details">Подробнее</string>
+    <string name="publish">Опубликовать</string>
+    <string name="number_of_friends">135 Друзей</string>
+    <string name="dot">·</string>
+    <string name="number_of_request">496 Заявок</string>
+    <string name="photo">Фото</string>
+    <string name="video">Видео</string>
+    <string name="clips">Клипы</string>
+    <string name="stories">Сюжеты</string>
+    <string name="home">Главная</string>
+    <string name="services">Сервисы</string>
+    <string name="messenger">Мессенджер</string>
 </resources>
