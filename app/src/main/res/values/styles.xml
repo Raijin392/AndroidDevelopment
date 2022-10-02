@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="circle">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="rounded_corner">
+        <item name="cornerSize">5dp</item>
+    </style>
+
+    <style name="specific_rounded_corner_1">
+        <item name="cornerSizeTopLeft">10dp</item>
+        <item name="cornerSizeTopRight">2dp</item>
+        <item name="cornerSizeBottomLeft">2dp</item>
+        <item name="cornerSizeBottomRight">2dp</item>
+    </style>
+
+    <style name="specific_rounded_corner_2">
+        <item name="cornerSizeTopLeft">2dp</item>
+        <item name="cornerSizeTopRight">2dp</item>
+        <item name="cornerSizeBottomLeft">2dp</item>
+        <item name="cornerSizeBottomRight">2dp</item>
+    </style>
+
+    <style name="specific_rounded_corner_3">
+        <item name="cornerSizeTopLeft">2dp</item>
+        <item name="cornerSizeTopRight">10dp</item>
+        <item name="cornerSizeBottomLeft">2dp</item>
+        <item name="cornerSizeBottomRight">2dp</item>
+    </style>
+
+</resources>
